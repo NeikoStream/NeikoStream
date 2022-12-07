@@ -23,10 +23,11 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="36" height="36" alt="Photoshop" /></a>
 </p>
+
 ## Github Stat
 
-<a href="https://github.com/NeikoStream/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NeikoStream&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=660066_color=2bbc8a&bg_color=1d1f21" alt="NeikoStream's GitHub Stats" />
+<a href="https://github.com/NeikoStream">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeikoStream&theme=codeSTACKr&show_icons=true" alt="NeikoStream's GitHub Stats" />
 </a>
 
 ## Support me
