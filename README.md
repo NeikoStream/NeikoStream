@@ -9,7 +9,7 @@
 * 🤵 [My resume](https://www.nrousseau.fr/)
 * 🎲 [NeikoPlay](https://www.play.neiko.fr/)
 * 🏡 [Gestion Locative](https://www.play.neiko.fr/)
-* 🥏 [Gestion d'équipe Ultimate](https://www.play.neiko.fr/)
+* 🥏 [Gestion d'équipe Ultimate]([https://www.play.neiko.fr/](https://github.com/NeikoStream/Ultimate-Gestion))
 
 ## My Skills
 <p align="left">
