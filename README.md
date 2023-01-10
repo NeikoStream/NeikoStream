@@ -32,6 +32,10 @@
 
 <a href=#><img src="contributions.svg"></a>
 
+
+![Endspigel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NeikoStream&theme=jolly&hide_border=true&v=2&&langs_count=10&custom_title=Coding%20Stats)
+
+
 ## Support me
 
 <a href='https://ko-fi.com/E1E822CBR' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
