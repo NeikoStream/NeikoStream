@@ -33,7 +33,7 @@
 <a href=#><img src="contributions.svg"></a>
 
 
-![NeikoStream's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neikostream&theme=jolly&hide_border=true&v=2&&langs_count=10&custom_title=Coding%20Stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neikostream)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Support me
