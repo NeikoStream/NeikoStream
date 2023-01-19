@@ -32,7 +32,9 @@
 
 <a href=#><img src="contributions.svg"></a>
 
-[NeikoStream wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neikostream&layuout=compact&theme=synthwave&v=2)
+[](https://github-readme-stats.vercel.app/api/wakatime?username=neikostream&layuout=compact&theme=synthwave&v=2)
+
+![NeikoStream wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neikostream&layuout=compact&theme=synthwave&v=2)
 
 ## Support me
 
