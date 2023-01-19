@@ -32,9 +32,7 @@
 
 <a href=#><img src="contributions.svg"></a>
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neikostream)](https://github.com/anuraghazra/github-readme-stats)
-
+[NeikoStream wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neikostream&layuout=compact&theme=synthwave&v=2)
 
 ## Support me
 
