@@ -32,6 +32,8 @@
 
 <a href=#><img src="contributions.svg"></a>
 
+[![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/9f6d4e1f-8d5c-41de-aa13-05d528b23978.svg)](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/9f6d4e1f-8d5c-41de-aa13-05d528b23978)
+
 [](https://github-readme-stats.vercel.app/api/wakatime?username=neikostream&layuout=compact&theme=synthwave&v=2)
 
 ![NeikoStream wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neikostream&layuout=compact&theme=synthwave&v=2)
