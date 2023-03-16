@@ -30,6 +30,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NeikoStream&theme=codeSTACKr&show_icons=true" alt="NeikoStream's GitHub Stats" />
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=NeikoStream&theme=dark&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 <a href=#><img src="contributions.svg"></a>
 
 [![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/9f6d4e1f-8d5c-41de-aa13-05d528b23978.svg)](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/9f6d4e1f-8d5c-41de-aa13-05d528b23978)
