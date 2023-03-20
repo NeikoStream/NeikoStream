@@ -2,13 +2,12 @@
 * 🌍  I'm based in Toulouse
 * ✉️  You can contact me at [nicolas66360@gmail.com](mailto:nicolas66360@gmail.com)
 * 🚀  I'm currently student of [Bachelor in Computer Science specialized in data](https://www.univ-tlse3.fr/but-specialite-informatique)
-* 🌱  I'm actualy work on [party games](https://github.com/NeikoStream/TicTacToe)
+* 🌱  I'm actualy work on [API REST](https://github.com/NeikoStream/API-REST)
 
 
 ## My Works
 * 🤵 [My resume](https://www.nrousseau.fr/)
-* 🎲 [NeikoPlay](https://www.play.neiko.fr/)
-* 🏡 [Gestion Locative](https://www.play.neiko.fr/)
+* 🏡 [Gestion Locative](https://github.com/gaiailou/housing-rentals-application)
 * 🥏 [Gestion d'équipe Ultimate](https://github.com/NeikoStream/Ultimate-Gestion)
 
 ## My Skills
