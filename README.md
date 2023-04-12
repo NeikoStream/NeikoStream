@@ -2,8 +2,8 @@
 * 🌍  I'm based in Toulouse
 * ✉️  You can contact me at [nicolas66360@gmail.com](mailto:nicolas66360@gmail.com)
 * 🚀  I'm currently student of [Bachelor in Computer Science specialized in data](https://www.univ-tlse3.fr/but-specialite-informatique)
-* 🌱  I'm actualy work on [CraftStat WebSite](https://github.com/NeikoStream/CraftStat),  [PingPong WebSite](https://github.com/NeikoStream/PingPongPoint)
-* 💼  I'm an internship in [ADD Informatique](https://add.fr)
+* 🌱  I'm currently work on [CraftStat WebSite](https://github.com/NeikoStream/CraftStat),  [PingPong WebSite](https://github.com/NeikoStream/PingPongPoint)
+* 💼  I'm currently an intern at [ADD Informatique](https://add.fr)
 
 
 ## My Works
