@@ -26,6 +26,11 @@
 
 </p>
 
+## Quality
+* [CraftStat](https://github.com/NeikoStream/CraftStat) [![CodeFactor](https://www.codefactor.io/repository/github/neikostream/craftstat/badge)](https://www.codefactor.io/repository/github/neikostream/craftstat) [![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/d09eebec-05a2-4858-a24a-33b51d3ff703.svg)](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/d09eebec-05a2-4858-a24a-33b51d3ff703)
+* [API REST](https://github.com/NeikoStream/API-REST) [![CodeFactor](https://www.codefactor.io/repository/github/neikostream/api-rest/badge)](https://www.codefactor.io/repository/github/neikostream/api-rest) [![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/0cb74bdb-7d56-49ee-b4ad-f79aea6c86d0.svg)](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/0cb74bdb-7d56-49ee-b4ad-f79aea6c86d0)
+* [Ultimate-Gestion](https://github.com/NeikoStream/API-REST) [![CodeFactor](https://www.codefactor.io/repository/github/neikostream/ultimate-gestion/badge)](https://www.codefactor.io/repository/github/neikostream/ultimate-gestion) [![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/9f6d4e1f-8d5c-41de-aa13-05d528b23978.svg)](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/9f6d4e1f-8d5c-41de-aa13-05d528b23978)
+
 ## Github Stat
 
 <a href="https://github.com/NeikoStream">
@@ -34,9 +39,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NeikoStream&theme=dark&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-<a href=#><img src="contributions.svg"></a>
-
-[![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/9f6d4e1f-8d5c-41de-aa13-05d528b23978.svg)](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/9f6d4e1f-8d5c-41de-aa13-05d528b23978)
 
 [](https://github-readme-stats.vercel.app/api/wakatime?username=neikostream&layuout=compact&theme=synthwave&v=2)
 
