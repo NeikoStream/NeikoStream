@@ -42,7 +42,7 @@
 
 
 [](https://github-readme-stats.vercel.app/api/wakatime?username=neikostream&layuout=compact&theme=synthwave&v=2)
-
+### This week
 ![NeikoStream wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neikostream&layuout=compact&theme=synthwave&v=2)
 
 ## Support me
