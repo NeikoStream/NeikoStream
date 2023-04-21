@@ -3,7 +3,7 @@
 * ✉️  You can contact me at [nicolas66360@gmail.com](mailto:nicolas66360@gmail.com)
 * 🚀  I'm currently student of [Bachelor in Computer Science specialized in data](https://www.univ-tlse3.fr/but-specialite-informatique)
 * 🌱  I'm currently work on [CraftStat WebSite](https://github.com/NeikoStream/CraftStat),  [PingPong WebSite](https://github.com/NeikoStream/PingPongPoint)
-* 💼  I'm currently an internship at [ADD Informatique](https://add.fr)
+* 💼  I'm currently an internship at [ADD Informatique](https://add.fr) [![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/d64cd524-89ab-4d74-8398-198263b19d9a.svg)]([https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/d64cd524-89ab-4d74-8398-198263b19d9a](https://github.com/NeikoStream/))
 
 
 ## My Works
