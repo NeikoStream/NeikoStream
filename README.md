@@ -33,6 +33,7 @@
 * [Ultimate-Gestion](https://github.com/NeikoStream/API-REST) [![CodeFactor](https://www.codefactor.io/repository/github/neikostream/ultimate-gestion/badge)](https://www.codefactor.io/repository/github/neikostream/ultimate-gestion) [![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/9f6d4e1f-8d5c-41de-aa13-05d528b23978.svg)](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/9f6d4e1f-8d5c-41de-aa13-05d528b23978)
 
 ## Github Stat
+[![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5.svg)](https://wakatime.com/@bcc24886-57d5-4f81-95f4-bbf928ab15a5)
 
 <a href="https://github.com/NeikoStream">
   <img src="https://github-readme-stats.vercel.app/api?username=NeikoStream&theme=codeSTACKr&show_icons=true" alt="NeikoStream's GitHub Stats" />
