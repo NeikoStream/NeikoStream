@@ -5,9 +5,13 @@
 * 🌱  I'm currently work on [CraftStat WebSite](https://github.com/NeikoStream/CraftStat),  [PingPong WebSite](https://github.com/NeikoStream/PingPongPoint)
 * 💼  I'm currently an internship at [ADD Informatique](https://add.fr)
 
+## Public application
+
+* ⛏ [CraftStat WebSite](https://github.com/NeikoStream/CraftStat) 📦[spigot link](https://www.spigotmc.org/resources/craftstatweb-for-playerstatsync.109446/)
 
 ## My Works
 
+* ⛏ [CraftStat WebSite](https://github.com/NeikoStream/CraftStat)
 * 🚀 [API REST](https://github.com/NeikoStream/API-REST)
 * 🏡 [Gestion Locative](https://github.com/gaiailou/housing-rentals-application)
 * 🥏 [Gestion d'équipe Ultimate](https://github.com/NeikoStream/Ultimate-Gestion)
