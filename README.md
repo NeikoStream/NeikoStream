@@ -3,7 +3,7 @@
 * ✉️  You can contact me at [nicolas66360@gmail.com](mailto:nicolas66360@gmail.com)
 * 🚀  I'm currently student of [Bachelor in Computer Science specialized in data](https://www.univ-tlse3.fr/but-specialite-informatique)
 * 🌱  I'm currently work on [CraftStat WebSite](https://github.com/NeikoStream/CraftStat),  [PingPong WebSite](https://github.com/NeikoStream/PingPongPoint)
-* 💼  I'm currently an internship at [ADD Informatique](https://add.fr) [![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/d64cd524-89ab-4d74-8398-198263b19d9a.svg)]([https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/d64cd524-89ab-4d74-8398-198263b19d9a](https://github.com/NeikoStream/)) + [![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/06bb7069-15b2-4f4f-aa34-76d04201e6d6.svg)](https://github.com/NeikoStream/)
+* 💼  I'm currently an internship at [ADD Informatique](https://add.fr)
 
 
 ## My Works
@@ -31,6 +31,7 @@
 * [CraftStat](https://github.com/NeikoStream/CraftStat) [![CodeFactor](https://www.codefactor.io/repository/github/neikostream/craftstat/badge)](https://www.codefactor.io/repository/github/neikostream/craftstat) [![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/d09eebec-05a2-4858-a24a-33b51d3ff703.svg)](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/d09eebec-05a2-4858-a24a-33b51d3ff703)
 * [API REST](https://github.com/NeikoStream/API-REST) [![CodeFactor](https://www.codefactor.io/repository/github/neikostream/api-rest/badge)](https://www.codefactor.io/repository/github/neikostream/api-rest) [![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/0cb74bdb-7d56-49ee-b4ad-f79aea6c86d0.svg)](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/0cb74bdb-7d56-49ee-b4ad-f79aea6c86d0)
 * [Ultimate-Gestion](https://github.com/NeikoStream/API-REST) [![CodeFactor](https://www.codefactor.io/repository/github/neikostream/ultimate-gestion/badge)](https://www.codefactor.io/repository/github/neikostream/ultimate-gestion) [![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/9f6d4e1f-8d5c-41de-aa13-05d528b23978.svg)](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/9f6d4e1f-8d5c-41de-aa13-05d528b23978)
+* Private project [![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/d64cd524-89ab-4d74-8398-198263b19d9a.svg)]([https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/d64cd524-89ab-4d74-8398-198263b19d9a](https://github.com/NeikoStream/)) + [![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5/project/06bb7069-15b2-4f4f-aa34-76d04201e6d6.svg)](https://github.com/NeikoStream/)
 
 ## Github Stat
 [![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5.svg)](https://wakatime.com/@bcc24886-57d5-4f81-95f4-bbf928ab15a5)
