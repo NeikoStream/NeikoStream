@@ -54,3 +54,4 @@
 ## Support me
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E822CBR)
+[![](https://visitcount.itsvg.in/api?id=NeikoStream&label=Vue&color=12&icon=4&pretty=false)](https://visitcount.itsvg.in)
