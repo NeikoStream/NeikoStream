@@ -39,6 +39,7 @@
 
 ## Github Stat
 [![wakatime](https://wakatime.com/badge/user/bcc24886-57d5-4f81-95f4-bbf928ab15a5.svg)](https://wakatime.com/@bcc24886-57d5-4f81-95f4-bbf928ab15a5)
+[![](https://visitcount.itsvg.in/api?id=NeikoStream&label=Vue&color=10&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 <a href="https://github.com/NeikoStream">
   <img src="https://github-readme-stats.vercel.app/api?username=NeikoStream&theme=codeSTACKr&show_icons=true" alt="NeikoStream's GitHub Stats" />
@@ -54,4 +55,3 @@
 ## Support me
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E822CBR)
-[![](https://visitcount.itsvg.in/api?id=NeikoStream&label=Vue&color=12&icon=4&pretty=false)](https://visitcount.itsvg.in)
