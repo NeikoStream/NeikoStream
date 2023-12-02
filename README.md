@@ -3,7 +3,7 @@
 * ✉️  You can contact me at [nicolas66360@gmail.com](mailto:nicolas66360@gmail.com)
 * 🚀  I'm currently student of [Bachelor in Computer Science specialized in data](https://www.univ-tlse3.fr/but-specialite-informatique)
 * 🌱  I'm currently work on private project
-* 💼  I'm currently an internship at [ADD Informatique](https://add.fr)
+* 💼  I'm currently an apprenticeship at [Département du Tarn](https://www.tarn.fr/accueil)
 * 🔎  I'm open to work
 
 ## Public application
