@@ -7,7 +7,7 @@
 * 🔎  I'm open to work
 
 ## Public application
-
+* ⛏ [Minedle](https://minedle.com)
 * ⛏ [CraftStat WebSite](https://github.com/NeikoStream/CraftStat) 📦[spigot link](https://www.spigotmc.org/resources/craftstatweb-for-playerstatsync.109446/)
 
 ## My Works
