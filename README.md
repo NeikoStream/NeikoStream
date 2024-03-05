@@ -2,8 +2,8 @@
 * 🌍  I'm based in Toulouse
 * ✉️  You can contact me at [nicolas66360@gmail.com](mailto:nicolas66360@gmail.com)
 * 🚀  I'm currently a student of [Bachelor in Computer Science specialized in data](https://www.univ-tlse3.fr/but-specialite-informatique)
-* 🌱  I'm currently learn Socket.io/ReactJS/NodeJS [Minedle](https://minedle.com)
-* 💼  I'm currently an apprenticeship at [Département du Tarn](https://www.tarn.fr/accueil)
+* 🌱  I'm learning Socket.io/ReactJS/NodeJS [Minedle](https://minedle.com)
+* 💼  I'm apprentice at [Département du Tarn](https://www.tarn.fr/accueil)
 * 🔎  I'm open to work
 
 ## Public application
