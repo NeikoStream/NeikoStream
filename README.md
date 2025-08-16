@@ -57,3 +57,5 @@
 ## Support me
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E822CBR)
+
+![snake gif](https://github.com/NeikoStream/NeikoStream/blob/output/github-snake-dark.svg)
