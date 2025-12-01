@@ -1,9 +1,7 @@
 ### Hi my name is Nicolas Rousseau👋
 * 🌍  I'm based in Toulouse
-* ✉️  You can contact me at [nicolas66360@gmail.com](mailto:nicolas66360@gmail.com)
-* 🚀  I'm currently a student of [Bachelor in Computer Science specialized in data](https://www.univ-tlse3.fr/but-specialite-informatique)
+* 🚀  I'm currently a student of [Master MIAGE specialized in data]([https://www.univ-tlse3.fr/but-specialite-informatique](https://www.ut-capitole.fr/accueil/formations/nos-diplomes/masters/master-mention-miage-parcours-type-ingenierie-des-donnees-et-apprentissage-ida))
 * 🌱  I'm learning Socket.io/ReactJS/NodeJS [Minedle](https://minedle.com)
-* 💼  I'm apprentice at [Département du Tarn](https://www.tarn.fr/accueil) and in future at Pierre Fabre
 
 ## Public application
 * 🎯[QuizVS !](https://quizvs.com)
